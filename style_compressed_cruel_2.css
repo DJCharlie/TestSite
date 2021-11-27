@@ -1,0 +1,174 @@
+input:focus{outline:0}html{ color:#000; background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td{ margin:0; padding:0}table{h border-collapse:collapse; border-spacing:0}fieldset,img{border:0}address,caption,cite,code,dfn,em,strong,th,var,optgroup{ font-style:inherit; font-weight:inherit}del,ins{text-decoration:line-through}li{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{ font-size:100%; font-weight:normal}q:before,q:after{content:''}abbr,acronym{ border:0; font-variant:normal}sup{vertical-align:baseline}sub{vertical-align:baseline}legend{color:#000}input,button,textarea,select,optgroup,option{ font-family:inherit; font-size:inherit; font-style:inherit; font-weight:inherit}input,button,textarea,select{*font-size:100%}button,button:active,a:active,a,#main input:focus{outline:0}html,body{font-family:Arial,sans-serif}a{text-decoration:none}body.green{background:url(http://static.kanyetothe.com/wp-content/themes/kanyetothe1.5/images/background_green_5.jpg) center top fixed repeat}body.blue{background:url(http://static.kanyetothe.com/wp-content/themes/kanyetothe1.5/images/background_blue.jpg) center -80px fixed repeat}body.red{background:url(http://static.kanyetothe.com/wp-content/themes/kanyetothe1.5/images/background_red.jpg) center top fixed repeat}body.grey,html{background:url(http://static.kanyetothe.com/wp-content/themes/kanyetothe1.5/images/background_grey.jpg) repeat}body{min-height:800px}#header{    display:block;    padding:36px 0 29px 0;    margin:auto;min-width:960px;max-width:1024px}#header h1{text-indent:-9999px;display:block;float:none;font-size:1px;height:21px;overflow:hidden;width:182px;margin:0 auto;background:url(http://static.kanyetothe.com/fofrum/Themes/KanyeToThe15/images/logo.png) no-repeat;cursor:pointer;margin:0 auto 0 auto;padding:0}#background_switcher{display:block;display:inline-block;zoom:1;width:101px;height:22px;background-image:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/background_switcher.png);background-repeat:no-repeat;margin-bottom:12px;}#header:hover #background_switcher{opacity:1}body.green #background_switcher{background-position:center bottom}body.blue #background_switcher{background-position:0 -66px}body.red #background_switcher{background-position:0 -44px}body.grey #background_switcher{background-position:0 -22px}body.cruel{background-position:0 0}#page_wrapper{min-width:960px;max-width:1024px;min-height:300px;background:#fff;margin:0 auto;padding-bottom:0;overflow:hidden;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/background_shadow_middle.png) center top repeat-y}#top_shadow{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/background_shadow_top.png) center top no-repeat;height:7px;overflow:hidden;min-width:960px;margin:0 auto;max-width:1024px;clear:both}#navigation a:active{outline:0 !important}#navigation{    background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/nav_center_off.png) repeat-x;    display:block;    height:38px;    margin:auto;min-width:960px;max-width:1010px}#navigation >li{    float:left;    height:38px}#navigation >li a{    color:#646464;    display:block;    font-size:11px;    font-weight:bold;    line-height:14px;    padding-left:18px;    padding-right:18px;    padding-top:10px;    padding-bottom:7px;    text-align:center;    text-decoration:none;    text-transform:uppercase;    text-shadow:0 1px 0 #fff}#navigation #search{    background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/search_box.png);    border:0;    color:#333;    display:block;    font-size:13px !important;    height:16px;    margin-left:16px;    margin-right:8px;    margin-top:6px;    padding-left:21px;    padding-right:10px;    padding-top:3px;    width:102px}#navigation #search:focus,#navigation #search{outline:0}#navigation #mail_li span{    display:block;    height:14px;    width:18px;    text-indent:-9999px}#mail_li .nav_mail{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/nav_mail.png) center top}#mail_li .nav_mail_new{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/nav_mail_new.png) center top}#navigation #notification_li span{    display:block;    height:16px;    width:16px;    text-indent:-9999px;    margin-top:-1px}#mail_li a{padding-left:12px !important;padding-right:12px !important}#notification_li a{padding-left:12px !important;padding-right:12px !important}#notification_li .nav_notification{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/nav_notification.png) center top}#notification_li .nav_notification_new{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/nav_notification_new.png) center top}#navigation .nav_float_right{float:right}#navigation .nav_left_on{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/nav_center_on.png) center top}#navigation .nav_left_off{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/nav_center_off.png) repeat-x}#navigation .nav_on{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/nav_center_on.png) center top}#navigation .nav_search{    float:right}    .submenu{    height:22px;    font-size:12px;    text-align:center;    margin-bottom:8px}.submenu ul{    display:inline-block;    *display:inline;    zoom:1;    height:22px;    margin:0 auto;    padding-left:12px;    padding-right:12px;    background:#fff}.submenu ul li{    display:block;    height:22px;    float:left;    margin-left:4px;    margin-right:4px}.submenu ul li a{    color:#4c4c4c;    display:block;    height:17px;    margin-left:7px;    padding-right:7px;    padding-top:5px}.submenu ul li.submenu_on,.submenu ul li.current-cat{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/submenu_item_background.png) left no-repeat}.submenu ul li.submenu_on a,.submenu ul li.current-cat a{    color:#fff;    text-shadow:0 1px 2px #000;    background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/submenu_item_background.png) right no-repeat}.submenu .submenu_on a span{display:none}      #page{    margin:0 auto 0 auto;    background-color:white;    width:962px;    position:relative}.more_button{    background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/more_button_bg.png) right no-repeat;    float:right;    text-align:center;    font-size:11px;    font-weight:bold;    text-decoration:none;    padding:7px 0 6px 0;    margin-top:-1px;    text-shadow:0 1px 0 #fff}a.more_button span{    background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/more_button_bg.png) left no-repeat;    text-align:center;    text-decoration:none;    color:#494949;    padding:7px 0 6px 13px;    margin-right:13px}.more_button.higher{margin-top:-3px}#footer{    margin-top:22px;    background:#333 url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/footer_background.png?v2) repeat-x;    text-align:center;    padding:24px;    max-width:982px;margin-left:auto;margin-right:auto}#footer{    background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/background_shadow_bottom.png) top center no-repeat;    text-align:center;    padding:52px 0 34px 0;min-width:960px;max-width:1024px;margin:0 auto}#footer p,#footer a{    font-size:10px;    color:#fff !important;    margin-top:4px;-moz-text-shadow:0 1px 2px #000;-webkit-text-shadow:0 1px 2px #000;text-shadow:0 1px 2px #000}.clearfloat{height:0 !important;font-size:1px !important;line-height:0px !important;clear:both !important}table,tr,td{border:0}.typeface-js{    font-family:"Helvetica Neue";    text-transform:uppercase;    color:#181818 !important;    font-stretch:condensed;    font-weight:bold;    margin-top:-1px}.back{  height:21px;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/back_button.png) left center no-repeat;padding-bottom:3px}.back a{color:white;  line-height:12px;font-size:12px;text-decoration:none;text-shadow:0 1px 0 #000;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/back_button.png) right center no-repeat; margin-left:8px; padding-right:10px; padding-top:3px; padding-bottom:3px}.category{width:630px;margin-bottom:32px}.topicindex{width:962px;margin-bottom:18px}.category_header{display:block;width:630px;height:29px;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/category_header_new.png) right no-repeat}.topicindex .category_header{width:962px}.category_header span{display:block;width:620px;height:20px;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/category_header_new.png) left no-repeat;text-indent:10px;padding-top:9px;font-size:12px;font-weight:bold;text-transform:uppercase;color:#888;text-shadow:0 1px 1px #fff}.category_header.self span{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/category_header_self_new.png) left no-repeat}.category_header.self{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/category_header_self_new.png) right no-repeat}.category table.boards{width:630px;vertical-align:middle}.category table.topics{width:962px;vertical-align:middle}.topic_title{padding-right:2px;color:#888;font-size:12px;text-align:left;width:500px;padding-top:4px;padding-bottom:4px;border-right:none !important}.mytopicstitle{width:560px}.topic_new_button{padding-right:12px !important;margin-right:0;text-align:right;width:90px;vertical-align:middle}.topic_new_button img{vertical-align:middle}.topic_icon{vertical-align:middle;border-right:none !important;padding-left:10px;padding-right:10px;width:22px}.mytopics_icon{vertical-align:middle;border-right:none !important;padding-left:10px;padding-right:10px;width:80px}.topic_icon img{margin-top:5px}.topic_icon a{width:21px;height:21px;line-height:21px;display:block;font-size:10px;color:white;font-weight:bold;text-shadow:0 -1px 0 rgba(0,0,0,0.4);text-align:center}.topic_icon a.newp{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/newblue1.png) center center no-repeat}.mytopics_icon a{width:auto;display:block;background:white;font-size:inherit !important;vertical-align:middle}.mytopics_icon a img{vertical-align:middle}.topic_title a{font-size:14px;color:#181818;text-decoration:underline}.topic_title.locked a{color:#aaa !important}.topic_title span,.topic_title span a{font-size:12px;color:#181818}.boards tr{height:41px}.boards .icon{width:102px;text-align:center;vertical-align:middle;line-height:14px}.boards .icon a{display:block;padding-top:4px}.boards .board_title a{font-size:16px;font-weight:bold;text-decoration:underline;color:#000}.boards .board_last{text-align:right;font-size:12px;padding-right:12px}.boards .board_last a{color:#666}.boards .board_last a strong{color:#222;font-weight:bold}.topics .topic_last{font-size:12px;padding-right:12px;padding-left:12px;text-align:right;border-right:none !important}.topics .topic_first{font-size:12px;padding-right:12px;padding-left:12px;text-align:right;width:160px}.topics .topic_last a{color:#333;text-decoration:none}.topics .topic_first a{color:#333;text-decoration:none}.topics .topic_last img{vertical-align:middle}.topics .topic_pages,.topics .topic_pages a{font-size:11px;color:#888;text-decoration:none}.topics .topic_pages a{padding-left:3px;padding-right:3px;margin-left:-2px;margin-right:-2px}.topics .topic_pages a:hover{color:white !important;background:#aaa}.topics .num{width:90px;padding:0 12px 0 12px;vertical-align:middle;text-align:center;font-size:12px;color:#333}#forum_left{margin-top:30px;width:630px;overflow:hidden;float:left}#forum_wide{margin-top:14px;width:962px;overflow:hidden}.category table{border-left:1px solid #dfdfdf;border-right:1px solid #dfdfdf}.category table tr td{border-bottom:1px solid #dfdfdf}.category table.topics tr td{border-right:1px solid #dfdfdf}.category table.topics tr.sticky td{background:#fafafa}.boards tr:hover .icon{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/board_row_hover.png) top left no-repeat}.boards tr:hover .board_title{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/board_row_hover.png) top center no-repeat}.boards tr:hover .board_last{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/board_row_hover.png) top right no-repeat}#online_users{width:612px;padding:8px;font-size:12px;color:#333;border:1px solid #e6e6e6;border-top:none;line-height:1.3em}#online_users a{text-decoration:none;color:#333}#forum_right{ width:310px;float:right;margin-top:30px}.forum_right_section{padding-top:16px;margin-bottom:22px}.current_status{font-size:12px;font-style:italic;color:#3f3f3f;margin-bottom:8px;margin-top:-4px;font-weight:bold}#new_status{width:300px;border:1px solid #949494;font-size:16px;padding:5px}.forum_pages{color:#666;float:right;height:20px;font-weight:bold;padding-top:6px;font-size:12px}.forum_pages span{margin-right:5px}.forum_pages a{border:1px solid #777;color:#777;text-decoration:none;padding:1px 5px 1px 5px;font-weight:normal}.forum_pages strong,.forum_pages a:hover{border:1px solid #777;color:#fff;background:#777;padding:1px 5px 1px 5px;font-weight:normal}.forum_pages a.disabled,.forum_pages a.disabled:hover{border:1px solid #dfdfdf;background:none;color:#dfdfdf;cursor:default}#board_top_info{margin-bottom:14px;margin-top:2px}#icon_title img{vertical-align:middle;margin-right:5px}#icon_title{width:750px;float:left;font-size:18px;color:#999;padding-top:14px}#icon_title h2.board_title{display:inline;color:#333;font-weight:bold;font-size:22px}#icon_title h3.description{display:inline;font-size:22px}#icon_title.profile{float:none !important}#icon_title.profile h2.board_title,#icon_title.profile h3.description,#icon_title.profile{font-size:24px !important}.board_buttons{float:right;margin-top:11px}.board_buttons img{margin-top:-2px}.forum_back{margin-bottom:14px;margin-top:14px}.post_table .the_user{width:140px;padding:10px;vertical-align:top;overflow:hidden}.post_table a.user_name{text-decoration:none;font-weight:bold;color:#181818;font-size:14px}.theactualusername{width:140px;overflow:hidden;display:block;white-space:nowrap;text-overflow:ellipsis}.post_table .user_status{color:#444;font-size:11px;margin-top:0;margin-bottom:11px;width:140px;overflow:hidden;word-wrap:break-word;max-height: 36px; display:block; text-overflow: ellipsis; }.post_table .user_info{font-size:12px;line-height:16px;color:#181818;margin-top:4px;width:140px;overflow:hidden;display:block}.post_table .the_post{vertical-align:top;padding:10px;font-size:14px;border-right:none !important} .post_table .an_actual_post{border-bottom:0 !important}.post_table .the_post a{color:#55f}.the_post .post_top{margin-bottom:8px;margin-top:2px;font-weight:bold;font-size:12px}.report{vertical-align:bottom;height:14px;border-top:0 !important;font-size:11px;text-align:right;border-right:0 !important}.report div{padding-right:6px;padding-bottom:6px}.report a{color:#777;text-decoration:none !important}.the_post .post_date{width:350px;float:left}.the_post .post_buttons{width:350px;float:right;text-align:right}.the_post .post_buttons img{vertical-align:top;margin-left:4px}.the_post .post_buttons a{text-decoration:none;color:#555}.the_post .post_body{color:#222;width:779px;word-wrap:break-word;overflow:hidden}.quickreply{margin-top:16px}.quickreply label,.quickreplyoptions input{font-size:12px;font-weight:bold;color:#222;cursor:pointer}.quickreplyoptions div{margin-top:6px;line-height:20px}.quickreply textarea,textarea.ktt_textarea{width:763px;height:130px;max-width:763px;max-height:440px;font-size:18px;padding:8px;border:none;border-bottom:1px solid #e5e5e5;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/textarea_background.png) left top no-repeat;font-size:14px;margin-top:6px}.editorwrapper #message{width:934px !important;max-width:934px !important;background:none;border:1px solid #ccc !important;margin-top:8px !important}.quick_reply_buttons{text-align:center;margin-top:10px}.quick_reply_buttons input:focus{outline:1px dotted #888}blockquote{font-size:12px;padding:2px;border:1px dotted #888}.quoteheader{font-weight:bold;font-size:11px;padding-bottom:2px;padding-top:12px}.quoteheader:first-child{padding-top:0}.quoteheader a{font-weight:bold;color:#222 !important}.quotefooter{padding-bottom:8px}#profile_info{margin-top:28px}#profile_left{width:184px;display:block;float:left;border-right:1px solid #e5e5e5 !important}#profile_links,#admin_links{line-height:24px;font-size:12px;margin-top:6px}#profile_links img{vertical-align:middle;vertical-align:text-top}#profile_links a{font-weight:bold;color:#444;text-decoration:none}#admin_links a{text-decoration:underline;color:#444}#admin_links a.ip_link{text-decoration:none}#profile_right{width:736px;float:right;padding:0 20px 0 2px}#profile_right p{font-size:14px;margin-top:10px;color:#333}#profile_right .user_info{font-size:14px;line-height:26px;color:#333;margin-top:8px}#profile_right .user_info a{color:#333}#profile_right .user_info p{margin-bottom:10px}a.more_link{font-size:12px;font-weight:bold}#profile_more{margin-top:8px}#profile_bottom{margin-top:16px}#news_feed{border:1px solid #e0e0e0;border-top:none;padding-top:1px}.news_feed_wrapper{padding:8px}#news_feed_write{padding:6px;background:#fafafa;border:1px solid #c7c7c7;margin:10px;margin-bottom:0}#news_feed_write input{font-size:16px;color:#333;padding:5px;border:1px solid #a0a0a0;width:519px;margin-right:-5px}#news_feed_write img{vertical-align:middle;margin-top:-2px}table#news_feed_items{width:608px;display:block;border:none;margin:0 auto 0 auto}tr td.item_main,tr td.avatar{border-bottom:1px solid #e0e0e0;padding-top:10px;padding-bottom:6px;padding-right:4px;vertical-align:top}table#news_feed_items tr td.item_main{width:534px;padding-left:6px}table#news_feed_items tr td.avatar{width:60px}.news_feed_status{font-size:14px;color:#444;margin-top:-3px}.news_feed_status a{font-weight:bold;color:#333;line-height:1.4em}.news_feed_status_time{font-size:12px;color:#888;margin-top:4px}.comment .news_feed_status_time{margin-top:2px}.news_feed_list{margin:-4px 0 -3px 0}.news_feed_list div{font-size:12px;color:#444;padding:5px 0 5px 0}.news_feed_list img{vertical-align:text-top}.news_feed_list a{font-weight:bold;text-decoration:none;color:#444}table.comments{border:0;margin-top:12px;font-size:12px;width:500px}table.comments td.comment{padding-right:8px;color:#444}table.comments td{background:#efefef;border-top:1px solid #fff !important;border-bottom:1px solid #e3e3e3 !important;padding:8px;padding-bottom:4px;padding-right:0;vertical-align:top}table.comments td a{color:#444;font-weight:bold;line-height:1.3em}table.comments td.post_comment textarea{border:1px solid #bbb;font-size:12px;padding:4px;width:475px;height:60px}table.comments td.post_comment.empty textarea{height:14px;resize:none}table.comments td.post_comment button{display:block;font-size:12px;padding:3px;cursor:pointer;width:60px;color:white;background:#b22027;text-shadow:0 -1px 0 #333;border:1px solid #81171c;border-top:1px solid #bb4750;float:right;margin-right:7px;margin-top:4px}table.comments td.post_comment.empty button{display:none}table.comments td.post_comment button:focus{outline:1px dotted #888}table.comments td.post_comment input.submit:active{border:1px solid #999;color:#444}table#news_feed_items tr.last >td{border-color:white !important}#friends_list{margin-top:14px;margin-left:8px}#friends_list a{padding-right:8px;padding-left:1px;line-height:52px}#profile_right .ktt_textarea{width:734px;max-width:734px;border-right:1px solid #ddd;background-position:left top}.edit_profile_table .label{font-size:14px;font-weight:bold;color:#333;width:90px}.edit_profile_table td{padding:4px;padding-left:0 !important}.edit_profile_table input{font-size:14px !important;padding:7px;color:#333;width:300px;border:1px solid #999}.edit_profile_table input.disabled,.edit_profile_table input:disabled{border:none}#upload_avatar{margin-top:26px;margin-bottom:18px}#upload_avatar input{display:block;font-size:12px;margin-top:14px}#edit_profile_save{margin-top:18px}#edit_profile_signature{margin-top:28px}.my_topics_row{vertical-align:middle;padding-left:0;margin-left:0}.my_topics_row img{vertical-align:middle}a.my_topics_row_last{font-size:12px;line-height:22px;color:#888;float:right;text-decoration:none}a.my_topics_row_title{font-size:14px;color:#181818;text-decoration:underline;margin-left:8px}td.pm_from{width:200px;text-align:left;font-size:14px;font-weight:bold;padding:0 8px 0 8px}.pm tr,.pm td{height:32px !important;padding-top:0 !important;padding-bottom:0 !important}.the_pms .category_header span,.searchresultpost .category_header span{text-transform:none !important}.pm_top_info .forum_pages{float:right;width:400px;text-align:right}.pm_top_info .board_buttons{float:left;width:400px}.new_topic_subject #icon_title{margin-bottom:18px}.new_topic_subject #icon_title input{font-size:18px;padding:6px;color:#333;width:600px;border:1px solid #999;margin-left:6px}.new_topic_subject #icon_title td{padding-top:4px;padding-bottom:4px}#login{width:350px;margin:0 auto 6px auto;padding:18px;padding-top:18px;padding-bottom:18px;border:1px solid #aaa;-webkit-box-shadow:0 1px 3px #aaa}#login img{display:block;margin-bottom:22px}#login input[type=image]{display:block;margin-bottom:0;margin-top:18px}#login input[type=text],#login input[type=password]{font-size:18px;color:#333;border:1px solid #aaa;padding:6px;display:block;margin-bottom:10px;width:338px}#login label{font-size:12px;color:#888}#login input[type=checkbox]{display:inline;width:auto;margin-bottom:0;border:0 !important}#login .captcha{width:230px;border-color:#ddf;background:#ddf}#login p.error,.register_error,#search_error{margin-bottom:12px;font-size:12px;color:#c00}#login p.error a{color:#999;text-decoration:none}.notifications_page h2{font-size:14px;font-weight:bold;margin-bottom:12px;color:#181818}.notifications_page ul li{font-size:12px;line-height:18px;color:#181818;margin-bottom:4px;padding-bottom:4px;border-bottom:1px solid #e5e5e5}.notifications_page ul{margin-bottom:24px}.notifications_page ul li img{vertical-align:text-top;margin-right:3px}.notifications_page ul li a{font-size:12px;color:#181818;text-decoration:underline}.notifications_page ul li span{font-size:10px;line-height:18px;color:#999}.column_box_content .column_box_content_row{ border-bottom:1px dotted #ccc; display:block; width:285px; text-decoration:none; color:inherit}.column_box_content img{ display:-moz-inline-stack; display:inline-block; zoom:1; *display:inline; margin-right:7px; vertical-align:top; border-left:1px solid #d4d4d4; border-right:1px solid #d4d4d4; border-bottom:2px groove #ccc}.column_box_content .column_box_content_row .cb_content_info{ display:-moz-inline-stack; display:inline-block; zoom:1; *display:inline; vertical-align:top; width:217px}.cb_article_title{ color:#1a1a1a; display:block; font-size:14px; font-weight:bold}.cb_article_time{ color:#999; display:block; font-size:12px; margin-top:3px}.cb_board_row .cb_article_title{ float:left; margin-top:-1px; width:200px; font-size:12px}.cb_board_row img{float:left}.cb_board_row .cb_content_info{ width:300px !important; height:22px !important}.cb_board_row .cb_board_by{ display:block; font-size:12px; color:#868686; line-height:12px}.cb_board_row img{border:0 !important}.cb_board_row{border:none !important}.column_box_content .column_box_content_row:last-child{border:none !important}.column_box_content .column_box_content_row.last{border:none !important}.column_box{ width:306px; padding-left:2px; margin:30px 18px 0 0; overflow:hidden; float:left}.cb_title{ margin-top:6px; font-size:18px; margin-left:0px}.column_box_content{ display:block; overflow:hidden; width:305px}.column_box_content .cb_content_info{width:244px}.column_box_content .column_box_content_row{ border-bottom:1px dotted #ccc; padding:0 0 16px 0; width:305px}.cb_user_blogs .cb_article_title,.cb_user_blogs{width:300px !important}strong{font-weight:bold !important}span.smalltext a{color:#999 !important;font-size:9px;font-family:Helvetica,Arial,sans-serif !important}.forum_right_section .cb_article_title a{color:#222 !important;white-space:nowrap;text-overflow:ellipsis;display:block;width:215px;overflow:hidden}.forum_right_section .cb_board_by a{color:#888 !important}.editorwrapperf iframe{border-color:#ccc !important;margin-top:8px !important;width:934px !important;display:none}#message_resizer{display:none}.post_top{display:block;padding-bottom:3px;margin-bottom:4px;color:#c7c7c7}#left_admsection,#adm_section,#admin_menu,#menu_toggle{display:none !important}#topic_buttons{opacity:0.4;-webkit-transition:opacity;-webkit-transition-timing-function:ease-out;-webkit-transition-duration:300ms}#topic_buttons:hover{opacity:1;-webkit-transition:opacity;-webkit-transition-timing-function:ease-out;-webkit-transition-duration:300ms}#topic_buttons a{font-size:11px;color:white;background:#888;padding:3px;padding-bottom:2px;padding-left:8px;padding-right:8px;border-radius:20px;-o-border-radius:20px;-moz-border-radius:20px;-webkit-border-radius:20px;text-shadow:0 -1px 0 #666;border-bottom:1px solid #666;margin-right:2px}#topic_buttons a:hover{background:#666;text-shadow:0 -1px 0 #444;border-bottom:none;border-top:1px solid #444;padding-top:2px;padding-bottom:3px}#errors{margin-bottom:-16px;padding-top:14px;font-size:14px;color:#c00}.bbc_u{text-decoration:underline !important}em{font-style:italic !important}td.board_title span,td.board_title span a{ font-size:12px !important;font-weight:bold;color:#222 !important}td.board_title span{display:none}tr:hover td.board_title span{display:inline}tr:hover td.board_title.children a.aboardname:after{content:","}.topicindex span span a{color:#666 !important}#unread_messages,#unread_notifications{display:inline !important}td.board_title span a:after{content:","}td.board_title span a:last-child:after{content:""!important}.searchresultpost .post_body a{color:#333 !important}img.avatar{max-width:140px;max-height:160px}a.buddy{background:#222;color:white !important;padding:0 6px 0 6px;border-radius:12px;-moz-border-radius:12px;-webkit-border-radius:12px}.kttga{width:900px;margin:0 auto 0 auto;text-align:center}.spoiler{color:black;background:black}.spoiler img{visibility:hidden}.spoiler:hover{color:white}.spoiler:hover img{visibility:visible}tr:hover .tpage{display:inline !important}tr:hover .tby{display:none !important}.tpage span{font-size:10px}.blur *,.blur a{Filter:Blur(Add = 0,Direction = 225,Strength = 5); -webkit-text-shadow:0px 0px 3px #999; -moz-text-shadow:0px 0px 3px #999; -o-text-shadow:0px 0px 3px #999; text-shadow:0px 0px 3px #999;color:#ddd !important;border-color:#eee !important}.blur{opacity:0.9;-moz-opacity:0.9;-webkit-opacity:0.9;-o-opacity:0.9;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=40)}.blur span,.blur img{opacity:0.3;-moz-opacity:0.3;-webkit-opacity:0.3;-o-opacity:0.3}.blur img{display:none}a.removeUnread{height:29px;width:24px;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/removeUnread.png) center bottom no-repeat;background:none;display:-moz-inline-stack;display:inline-block;zoom:1;*display:inline}td:hover a.removeUnread{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/removeUnread2.png) center bottom no-repeat}a.removeUnread:hover{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/removeUnreadHover2.png) center bottom no-repeat !important}a.seeUnread{height:29px;width:58px;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/unread_button.png) center bottom no-repeat;display:-moz-inline-stack;display:inline-block;zoom:1;*display:inline}a.removeMyTopics{height:23px;width:24px;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/mtr.png) center bottom no-repeat;display:-moz-inline-stack;display:inline-block;zoom:1;*display:inline}#poll{margin-bottom:20px;padding:12px;border:1px dashed #aaa}#pollquestion{font-size:20px;margin-bottom:12px}ul.options li{margin-bottom:4px}ul.options{margin-bottom:10px}#poll div.bar{background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/pollbar.png) repeat-x;height:22px;display:block}.totalVoters{font-size:12px;margin-top:6px}.percentage{font-size:12px}dt.middletext{margin-top:6px}p.smallpadding{font-size:11px;font-weight:bold;margin-bottom:4px}.post_body img{max-width:97%;max-height:auto}dt.voted{color:#b00}body.lt1024{background-color:#333}body.lt1024 #header{padding:0}body.lt1024 #header h1{height:0}body.lt1024 #top_shadow{display:none}body.lt1024 #nav_home .logo1024{display:block;width:120px;height:14px;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/1024logo.png) left center no-repeat}body.lt1024 #nav_home img{display:none}body.lt1024 #background_switcher{display:none}.number_badge{width:16px;height:16px;text-align:center;color:white;position:absolute;right:0;display:block;top:0;padding-top:1px;overflow:hidden;font-size:10px;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/nav_number_badge.png) top left no-repeat}div.popup_menu{display:none;width:208px;padding-bottom:13px;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/popup_bottom.png) center bottom no-repeat;position:absolute;right:0;top:0}div.popup_menu .popup_title{display:block;width:160px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;height:22px;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/popup_top.png) center top no-repeat;color:white;font-size:14px;font-weight:bold;text-align:center;padding:14px 24px 0 24px}div.popup_menu .popup_middle{display:block;width:184px;background:url(http://static.kanyetothe.com/forum/Themes/KanyeToThe15/images/popup_middle.png) repeat-y;padding:0 12px 2px 12px}div.popup_menu ul{background:white;-webkit-box-shadow:inset 0 1px 2px #000;box-shadow:inset 0 1px 2px #000;-moz-box-shadow:inset 0 1px 2px #000}div.popup_menu ul li a{font-size:12px;display:block;padding:6px 8px 6px 8px;color:black}div.popup_menu ul li a:hover{background:#7b8d9a;color:white;text-shadow:0 -1px 0px #4e5961}div.popup_menu ul li:first-child a:hover{-webkit-box-shadow:inset 0 1px 2px #000}p.cpy{opacity:0.8;padding-top:4px}.quoteheader .topslice_quote a:before{content:"Quote from: "}.postlocation,.postposts{font-size:11px}.postlocation:before{content:"Location: ";font-weight:bold}.postposts:before{content:"Posts: ";font-weight:bold}.ag:after{content: "ago"}
+
+.linktree{width:700px;margin:0 auto 0 auto;font-size:12px;text-align: center;}body .linktree li{display:inline;}body .linktree li a, .linktree li a span{color:#333;} body .linktree li:last-child{font-weight:bold}
+
+
+#newmsg{
+
+	text-align: center;
+	padding: 12px 0 12px 0;
+	display: none;
+
+}
+
+#newmsg a{
+
+	color: #555 !important;
+	border-radius:20px;
+	padding:4px 8px 4px 8px;
+	background:#ddd;
+	font-size: 12px;
+	text-shadow: 0 1px 0 #fff;
+	box-shadow: 0 1px 1px #555;
+	-webkit-box-shadow: 0 1px 1px #555;
+	-moz-box-shadow: 0 1px 1px #555;
+
+}
+
+a.plus{
+	
+	line-height: 24px;
+
+}
+
+.plususername{
+
+	margin-left: -3px;
+	margin-top: -2px;
+	line-height: 22px !important;
+	vertical-align: center;
+
+}
+
+.plususername img{
+	
+	position: relative;
+	top: -1px;
+	vertical-align: middle !important;
+
+}
+
+.linktree2{
+
+	text-indent: -9999999px;
+	background: none;
+
+}
+
+#header #custbg{
+color: white !important;
+text-shadow: 0 1px 3px rgba(0,0,0,0.8);
+font-size: 12px;
+float:left;
+font-weight: bold;
+
+margin-left:17px;
+margin-top: -15px;
+opacity:0;
+-webkit-transition:opacity 0.2s ease-in;
+transition:opacity 0.2s ease-in;
+-moz-transition:opacity 0.2s ease-in;
+-o-transition:opacity 0.2s ease-in
+}#header:hover #custbg{opacity:1}
+
+body{-webkit-font-smoothing:antialiased;}
+
+#chat .chat-friend-button span:first-child{
+
+	display: inline-block;
+	max-width:130px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+
+}
+.copyright_warning{
+max-height: none !important; }
+
+.post_body img{ max-height: 700px; max-width: auto; }
+
+#attachmentz{ font-size:11px; margin-top: 20px; border: none; padding: 14px; box-shadow: 1px 1px 5px rgba(0,0,0,.3); } #attachmentz a{ color: #444; text-decoration:underline; }#attachmentz .attach{ margin-bottom: 14px; }
+
+.board88:hover .aboardname{ display:none !important; }
+
+
+
+#header_new.main {
+width:970px;
+margin:0 auto 0 auto;
+}
+
+@media only screen and (min-width:1030px){
+
+	#header_new.main {
+	width:1000px;
+	margin:0 auto 0 auto;
+	}
+
+}
+
+@media only screen and (max-width:976px){
+
+	#logo-social{
+		margin-left: 10px;
+	}
+	.ad728logo-social{
+		margin-right: 10px;
+	}
+
+}
+
+#header_new.main h1 a {
+width:198px;
+height:35px;
+background:url(http://www.kanyetothe.com/wp-content/themes/ktt2/images/logo-main.png) no-repeat;
+text-indent:-9999px;
+display:block;
+}
+
+#logo-social {
+float:left;
+margin-top:6px;
+margin-bottom:40px;
+}
+
+.social {
+margin-top:20px;
+}
+
+.social a {
+height:22px;
+display:block;
+text-indent:-9999px;
+}
+
+.social .twitter {
+width:86px;
+background:url(http://www.kanyetothe.com/wp-content/themes/ktt2/images/twitter.png) no-repeat;
+margin-right:14px;
+}
+
+.social .facebook {
+width:92px;
+background:url(http://www.kanyetothe.com/wp-content/themes/ktt2/images/facebook.png) no-repeat;
+}
+
+.social li{
+vertical-align:top;
+zoom:1px;
+display:inline-block !important;
+}
+
+.ad728 {
+width:728px;
+height:90px;
+float:right;
+}
+
+body.cruel{
+background:url(http://static.kanyetothe.com/wp-content/themes/ktt2/images/background-cruel-3.jpg) center top fixed repeat
+}
+
+body.cruel .social a{ height: 26px; }
+body.cruel .social .twitter{ width: 88px; background: url(http://static.kanyetothe.com/wp-content/themes/ktt2/images/twitter-cs.png) no-repeat; margin-right: 7px; }
+body.cruel .social .facebook{ width: 96px; background: url(http://static.kanyetothe.com/wp-content/themes/ktt2/images/facebook-cs.png) no-repeat; }
+body.cruel #header_new.main h1 a{background-image: url(http://static.kanyetothe.com/wp-content/themes/ktt2/images/logo-main-cs.png) !important;}

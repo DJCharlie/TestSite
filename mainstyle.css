@@ -1,0 +1,46 @@
+@import "heading.css";
+@import "paragraph.css";
+
+* { font-family: "Arial Black" Gadget, sans-serif; }
+
+div * 
+{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+body
+{
+	background: url(http://i.imgur.com/lf93GYJ.jpg) #000 fixed repeat bottom !important; 
+} 
+
+#top_shadow
+{
+	background: url(background_shadow_top.png) center top no-repeat;
+	height: 7px;
+	overflow: hidden;
+	min-width: 960px;
+	margin:0 auto;
+	max-width: 1024px;
+	clear:both
+}
+
+#page_wrapper
+{
+	min-width:960px;
+	max-width:1024px;
+	background:#fff;
+	margin:0 auto;
+	padding-bottom:0;
+	overflow:hidden;
+	background:url(background_shadow_middle.png) center top repeat-y;
+}
+
+#footer
+{
+	background: url(background_shadow_bottom.png) top center no-repeat;
+	text-align: center;
+	padding: 52px 0 34px 0;
+	min-width: 960px;
+	max-width: 1024px;
+	margin: 0 auto;
+}
